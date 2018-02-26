@@ -1,0 +1,10 @@
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\bin\Debug\netcoreapp1.1\Compositeuebung.deps.json
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\bin\Debug\netcoreapp1.1\Compositeuebung.runtimeconfig.json
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\bin\Debug\netcoreapp1.1\Compositeuebung.runtimeconfig.dev.json
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\obj\Debug\netcoreapp1.1\Compositeuebung.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\obj\Debug\netcoreapp1.1\Compositeuebung.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\obj\Debug\netcoreapp1.1\Compositeuebung.AssemblyInfo.cs
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\bin\Debug\netcoreapp1.1\Compositeuebung.dll
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\bin\Debug\netcoreapp1.1\Compositeuebung.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\obj\Debug\netcoreapp1.1\Compositeuebung.dll
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\Compositeuebung\Compositeuebung\obj\Debug\netcoreapp1.1\Compositeuebung.pdb
